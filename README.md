@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Mangal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/j5mysryUoEcAAAAM/web-development-web.gif">
+<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1371339413/photo/co-working-team-meeting-concept-businessman-using-smart-phone-and-digital-tablet-and-laptop.webp?b=1&s=170667a&w=0&k=20&c=GnW36mPEYr3TRpPZNLtT75u8v2HOczvRxGckWUN3hVg=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikmangal&label=Profile%20views&color=0e75b6&style=flat" alt="ritikmangal" /> </p>
 
