@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Always ready to talk about **String[] topics = new String[]{ "Web Development", "Java", "Python", "C","React.js" }**
+- Always ready to talk about **String[] topics = new String[]{ "Web Development", "Java", "Python", "C","React.js","Javascript","Typescript"}**
 
 - 📫 How to reach me **ritikmangal24@gmail.com**
 
